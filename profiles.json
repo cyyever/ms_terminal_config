@@ -7,19 +7,20 @@
             "name": "Ubuntu",
             "source": "Windows.Termital.Wsl",
             "hidden": false,
+            "colorScheme": "eink",
             "cursorShape": "vintage",
             "cursorColor": "#FF0000",
-            "colorScheme": "eink"
+            "fontSize": 16
         },
         {
             "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
             "name": "Windows PowerShell",
             "commandline": "powershell.exe",
             "cursorShape": "vintage",
-            "cursorColor": "#FF0000",
-            "fontSize": 16,
             "hidden": false,
-            "colorScheme": "eink"
+            "colorScheme": "eink",
+            "cursorColor": "#FF0000",
+            "fontSize": 16
         },
         {
             "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",

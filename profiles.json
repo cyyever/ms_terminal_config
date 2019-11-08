@@ -7,7 +7,7 @@
             "name": "Ubuntu",
             "source": "Windows.Termital.Wsl",
             "hidden": false,
-            "colorScheme": "eink",
+            "colorScheme": "dark",
             "cursorShape": "vintage",
             "cursorColor": "#FF0000",
             "fontSize": 16
@@ -18,7 +18,7 @@
             "commandline": "powershell.exe",
             "cursorShape": "vintage",
             "hidden": false,
-            "colorScheme": "eink",
+            "colorScheme": "dark",
             "cursorColor": "#FF0000",
             "fontSize": 16
         },

@@ -23,6 +23,16 @@
             "fontSize": 16
         },
         {
+            "guid": "{90cbdc15-f4fe-49d2-a245-ec066b70845f}",
+            "commandline": "C:\\Program Files\\PowerShell\\7-preview\\pwsh.exe",
+            "colorScheme": "dark",
+            "cursorColor": "#FF0000",
+            "cursorShape": "vintage",
+            "fontSize": 16,
+            "icon": "C:\\Program Files\\PowerShell\\7-preview\\assets\\Powershell_av_colors.ico",
+            "name": "PowerShell 7 preview"
+        },
+        {
             "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
             "hidden": true
         },

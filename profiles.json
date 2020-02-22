@@ -1,6 +1,6 @@
 {
     "$schema": "https://aka.ms/terminal-profiles-schema",
-    "defaultProfile": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+    "defaultProfile": "{90cbdc15-f4fe-49d2-a245-ec066b70845f}",
     "profiles": [
         {
             "guid": "{90cbdc15-f4fe-49d2-a245-ec066b70845f}",

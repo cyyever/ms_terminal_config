@@ -4,14 +4,14 @@
     "profiles": [
         {
             "guid": "{90cbdc15-f4fe-49d2-a245-ec066b70845f}",
-            "commandline": "C:\\Program Files\\PowerShell\\7-preview\\pwsh.exe",
+            "commandline": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
             "startingDirectory": "%USERPROFILE%",
             "colorScheme": "dark",
             "cursorColor": "#FF0000",
             "cursorShape": "vintage",
             "fontSize": 16,
-            "icon": "C:\\Program Files\\PowerShell\\7-preview\\assets\\Powershell_av_colors.ico",
-            "name": "PowerShell 7 preview"
+            "icon": "C:\\Program Files\\PowerShell\\7\\assets\\Powershell_av_colors.ico",
+            "name": "PowerShell 7"
         },
         {
             "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",

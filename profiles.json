@@ -85,5 +85,15 @@
             "brightCyan": "#00FFFF",
             "brightWhite": "#FFFFFF"
         }
+    ],
+    "keybindings": [
+        {
+            "command": "prevTab",
+            "keys": "ctrl+shift+left"
+        },
+        {
+            "command": "nextTab",
+            "keys": "ctrl+shift+right"
+        }
     ]
 }

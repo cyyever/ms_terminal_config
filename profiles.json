@@ -94,6 +94,10 @@
         {
             "command": "nextTab",
             "keys": "ctrl+shift+right"
+        },
+        {
+            "command": "closeTab",
+            "keys": "ctrl+shift+q"
         }
     ]
 }

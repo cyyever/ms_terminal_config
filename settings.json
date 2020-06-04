@@ -4,7 +4,7 @@
     "profiles": [
         {
             "guid": "{90cbdc15-f4fe-49d2-a245-ec066b70845f}",
-            "commandline": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
+            "commandline": "C:\\Program Files\\PowerShell\\7-preview\\pwsh.exe",
             "startingDirectory": "%USERPROFILE%",
             "colorScheme": "dark",
             "cursorColor": "#FF0000",

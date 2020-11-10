@@ -4,7 +4,7 @@
     "profiles": [
         {
             "guid": "{90cbdc15-f4fe-49d2-a245-ec066b70845f}",
-            "commandline": "C:\\Program Files\\PowerShell\\7-preview\\pwsh.exe",
+            "commandline": "C:\\Program Files\\PowerShell\\7-preview\\pwsh.exe -nologo",
             "startingDirectory": "%USERPROFILE%",
             "colorScheme": "dark",
             "cursorColor": "#FF0000",
@@ -16,6 +16,7 @@
         {
             "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
             "name": "Ubuntu",
+            "commandline": "wsl.exe -d Ubuntu",
             "source": "Windows.Termital.Wsl",
             "hidden": false,
             "colorScheme": "dark",

@@ -29,7 +29,7 @@
         "list": [
             {
                 "colorScheme": "Gruvbox Dark",
-                "commandline": "C:\\Program Files\\PowerShell\\7\\pwsh.exe -nologo",
+                "commandline": "pwsh.exe -nologo",
                 "cursorColor": "#FF0000",
                 "cursorShape": "vintage",
                 "font": {
